@@ -1,0 +1,18 @@
+[
+    {
+        "path": "C:\\Users\\ccort\\Desktop\\actualizer\\main.py",
+        "frequency_value": "1",
+        "frequency_unit": "Hours",
+        "start_time": "2024-09-05 17:37:00",
+        "last_run": "Error Check Email",
+        "next_run": "N/A"
+    },
+    {
+        "path": "C:\\Users\\ccort\\Desktop\\artist_timelog_tracker\\main.py",
+        "frequency_value": "1",
+        "frequency_unit": "Minutes",
+        "start_time": "2024-09-05 17:37:00",
+        "last_run": "Sun October 13 06:26:53 PM",
+        "next_run": "N/A"
+    }
+]
