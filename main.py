@@ -22,12 +22,12 @@ import os
 import re
 from datetime import datetime
 
-EMAIL = "mwpipeline@gmail.com"
-PASSWORD = 'wtmvtpysuubfesmy'
+EMAIL = "SAMPLE_EMAIL@EMAIL.COM"
+PASSWORD = 'SAMPLE PASSWORD'
 
-SERVER_PATH = "https://mrwolf.shotgunstudio.com/"
-SCRIPT_NAME = "mw_nuke"
-SCRIPT_KEY = "kzfzpnrybU5knfamh%sjlhzzr"
+SERVER_PATH = MW_SERVER_PATH
+SCRIPT_NAME = MW_SCRIPT_NAME
+SCRIPT_KEY = MW_SCRIPT_KEY
 
 sg = Shotgun(SERVER_PATH, SCRIPT_NAME, SCRIPT_KEY)
 
