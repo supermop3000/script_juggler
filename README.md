@@ -128,13 +128,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-## Acknowledgments
-Special thanks to the team at Mr. Wolf for their contributions and support in developing this tool.
-
----
-
-## Contact
-For questions or support, please reach out to:
-- **Email**: chad@mrwolf.com
-- **GitHub**: [Your Repository Link]
-
